@@ -6,7 +6,7 @@ export default function Footer() {
       <Container>
         {/* LOGO */}
         <Column>
-          <Logo>Woodra</Logo>
+          <Logo>Furniture</Logo>
           <Text>Modern furniture for modern living spaces.</Text>
         </Column>
 
