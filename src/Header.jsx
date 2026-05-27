@@ -8,7 +8,7 @@ export default function Header() {
     <Container>
       <MobileButton onClick={() => setShowMenu(true)}>☰</MobileButton>
 
-      <Logo>Woodra</Logo>
+      <Logo>Furniture</Logo>
 
       <Nav className={showMenu ? "show" : ""}>
         <CloseButton onClick={() => setShowMenu(false)}>✕</CloseButton>
